@@ -78,7 +78,7 @@ Follow these steps to set up your Smart Watering IoT System:
 .
 ├── smart_watering_esp32/
 │   └── smart_watering_esp32.ino
-├── web-ui/                    
+├── web-ui/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
