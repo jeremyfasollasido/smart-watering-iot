@@ -76,9 +76,9 @@ Follow these steps to set up your Smart Watering IoT System:
 
 ### 📐 Project Structure
 .
-├── smart_watering_esp32/       # Arduino IDE project for ESP32 firmware
+├── smart_watering_esp32/
 │   └── smart_watering_esp32.ino
-├── web-ui/                     # Web-based UI files
+├── web-ui/                    
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
