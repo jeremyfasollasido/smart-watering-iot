@@ -75,14 +75,16 @@ Follow these steps to set up your Smart Watering IoT System:
         * If using a local web server, navigate to `http://localhost:8000` (or your server's address).
 
 ### 📐 Project Structure
+```
 .
-├── smart_watering_esp32/
+├── Main Code/
 │   └── smart_watering_esp32.ino
-├── web-ui/
+├── docs/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
 └── README.md
+```
 
 ### 🤝 Contributing
 
