@@ -39,6 +39,7 @@ Gone are the days of over or under-watering. This system helps you maintain opti
     * **Recommended:** A local [Mosquitto MQTT broker](https://mosquitto.org/) (e.g., on a Raspberry Pi or a PC).
     * **For testing:** A public broker like `broker.hivemq.com` (ensure to use WebSocket port like `8000`).
 * **Web Server (Optional, for hosting UI):** A simple local web server (e.g., Python's `http.server`, Node.js `http-server`) to serve the HTML/CSS/JS files, though you can also open `index.html` directly in a browser for quick testing.
+* **Preview Website** [Smart-Watering-IoT](https://jeremyfasollasido.github.io/smart-watering-iot/)
 
 ---
 
